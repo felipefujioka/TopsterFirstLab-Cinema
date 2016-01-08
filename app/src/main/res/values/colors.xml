@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="PrimaryColor">#000000</color>
+    <color name="PrimaryDarkColor">#000000</color>
+    <color name="Silver">#e4e7ea</color>
+    <color name="foreground_material_light">#9b9898</color>
+
 </resources>

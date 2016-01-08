@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/theaters"
+            android:checked="false"
+            android:icon="@drawable/cinema_icon"
+            android:title="Cinemas" />
+
+        <item
+            android:id="@+id/movie"
+            android:checked="false"
+            android:icon="@drawable/movie_icon"
+            android:title="Filmes" />
+
+        <item
+            android:id="@+id/tickets"
+            android:checked="false"
+            android:icon="@drawable/ticket_icon"
+            android:title="Sessões" />
+
+    </group>
+</menu>
